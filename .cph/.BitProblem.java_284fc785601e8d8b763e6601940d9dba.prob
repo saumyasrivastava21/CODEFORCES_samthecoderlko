@@ -1,0 +1,1 @@
+{"name":"Local: BitProblem","url":"c:\\Users\\saums\\OneDrive\\Desktop\\CODEFORCES\\BitProblem.java","tests":[{"id":1759839100121,"input":"1\n++X","output":"1"},{"id":1760087733165,"input":"2\nX++\n--X","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\saums\\OneDrive\\Desktop\\CODEFORCES\\BitProblem.java","group":"local","local":true}
