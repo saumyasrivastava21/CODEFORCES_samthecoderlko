@@ -22,3 +22,4 @@ public class Chocolates {
         System.out.println(ans);
     }
 }
+
